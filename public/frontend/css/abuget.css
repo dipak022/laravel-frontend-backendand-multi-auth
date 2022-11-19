@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Abuget';
+    src: url('../fonts/Abuget.woff2') format('woff2'),
+        url('../fonts/Abuget.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
